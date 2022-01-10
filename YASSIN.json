@@ -47,7 +47,7 @@
   "posts" : [
     {
       "id" : 0,
-      "imageURL" : "https://agourram98.github.io/yacine2/cover.png",
+      "imageURL" : "https://raw.githubusercontent.com/shadopagie1/datayacine/main/Cover.png",
       "state" : "free",
       "title" : "YACINE TV",
       "description" : "Yacine TV is a great Read More...",
@@ -55,7 +55,7 @@
     },
     {
       "id" : 1,
-      "imageURL" : "https://agourram98.github.io/yacine2/cover.png",
+      "imageURL" : "https://raw.githubusercontent.com/shadopagie1/datayacine/main/Cover.png",
       "state" : "free",
       "title" : "أحصل على سيرفر بين سبورت مجاناً",
       "description" : "...أحصل على سيرفر بين سبورت مجاناً إقرأ المزيد",
@@ -63,7 +63,7 @@
     },
     {
       "id" : 2,
-      "imageURL" : "https://agourram98.github.io/yacine2/cover.png",
+      "imageURL" : "https://raw.githubusercontent.com/shadopagie1/datayacine/main/Cover.png",
       "state" : "free",
       "title" : "ABOUT YACINE TV",
       "description" : "Yacine TV app is an Read More...",
@@ -71,7 +71,7 @@
     },
     {
       "id" : 3,
-      "imageURL" : "https://agourram98.github.io/yacine2/cover.png",
+      "imageURL" : "https://raw.githubusercontent.com/shadopagie1/datayacine/main/Cover.png",
       "state" : "free",
       "title" : "DOWNLOAD YACINE TV APP",
       "description" : "Entertainment is a Read More...",
@@ -79,7 +79,7 @@
     },
     {
       "id" : 4,
-      "imageURL" : "https://agourram98.github.io/yacine2/cover.png",
+      "imageURL" : "https://raw.githubusercontent.com/shadopagie1/datayacine/main/Cover.png",
       "state" : "free",
       "title" : "DOWNLOAD YACINE TV APP Live",
       "description" : "Download Yacine TV Live Read More...",
@@ -87,7 +87,7 @@
     },
     {
       "id" : 5,
-      "imageURL" : "https://agourram98.github.io/yacine2/cover.png",
+      "imageURL" : "https://raw.githubusercontent.com/shadopagie1/datayacine/main/Cover.png",
       "state" : "free",
       "title" : "YACINE TV SPORTS LIVE",
       "description" : "Yacine TV Sports Live Read More...",
@@ -95,7 +95,7 @@
     },
     {
       "id" : 6,
-      "imageURL" : "https://agourram98.github.io/yacine2/cover.png",
+      "imageURL" : "https://raw.githubusercontent.com/shadopagie1/datayacine/main/Cover.png",
       "state" : "vip",
       "title" : "KEY FEATURES",
       "description" : "Key Features of Yacine Read More...",
